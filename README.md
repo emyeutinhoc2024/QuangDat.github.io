@@ -54,7 +54,5 @@
             </audio>
 		<div class="info-item"><strong>Vài điều về mình:</strong> mình không biết nói gì hết á</div>
         </div>
-    </div>
-    </div>
 </body>
 </html>
